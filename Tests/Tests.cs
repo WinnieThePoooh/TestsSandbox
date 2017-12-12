@@ -20,5 +20,11 @@ namespace Tests
         {
             Assert.AreEqual(42, d.ReturnPassedValue(42));
         }
+        
+        [Test]
+        public void NewTest()
+        {
+            Assert.AreEqual(43, d.ReturnPassedValue(43));
+        }
     }
 }
