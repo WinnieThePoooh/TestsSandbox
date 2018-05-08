@@ -1,10 +1,10 @@
 ﻿namespace Lib
 {
-    public class DummyClass
+  public class DummyClass
+  {
+    public int ReturnPassedValue(int foo = 0)
     {
-        public int ReturnPassedValue(int foo = 0)
-        {
-            return foo;
-        }
+      return foo;
     }
+  }
 }
