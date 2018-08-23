@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{579BB985-0C43-4559-8588-5F2A1EB82A5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNunit2", "TestNunit2\TestNunit2.csproj", "{892CD1BB-D2F6-4C8B-A4E6-BB3A45297A5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{579BB985-0C43-4559-8588-5F2A1EB82A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{579BB985-0C43-4559-8588-5F2A1EB82A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{579BB985-0C43-4559-8588-5F2A1EB82A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892CD1BB-D2F6-4C8B-A4E6-BB3A45297A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892CD1BB-D2F6-4C8B-A4E6-BB3A45297A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892CD1BB-D2F6-4C8B-A4E6-BB3A45297A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892CD1BB-D2F6-4C8B-A4E6-BB3A45297A5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
